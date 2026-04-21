@@ -233,7 +233,7 @@ MIT License - feel free to use and modify.
 
 ---
 
-## 👤 Author
+## 👤 Author: KP Aditya Nukala
 
 Built following the coverage-driven verification roadmap.
 
